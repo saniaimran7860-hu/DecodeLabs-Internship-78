@@ -16,3 +16,20 @@ Ye project DecodeLabs Internship Batch 2026 ke liye hai.
 
 ### Author
 Sania Imran
+## Project 2: Data Classification Using AI
+
+- **Dataset:** Iris (150 samples, 4 features, 3 classes)
+- **Algorithm:** K-Nearest Neighbors (K=5)
+- **Split:** 80% training (120 samples), 20% testing (30 samples)
+- **Scaling:** StandardScaler
+- **Accuracy:** 100.0%
+- **Metrics:** Confusion Matrix, Precision, Recall, F1-Score
+
+### Output
+- `classification.py` - Main code
+- `confusion_matrix.png` - Confusion Matrix graph
+
+### Results
+- Setosa: 10/10 correct
+- Versicolor: 9/9 correct
+- Virginica: 11/11 correct
