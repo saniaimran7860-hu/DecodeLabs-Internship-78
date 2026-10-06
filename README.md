@@ -33,3 +33,11 @@ Sania Imran
 - Setosa: 10/10 correct
 - Versicolor: 9/9 correct
 - Virginica: 11/11 correct
+- ## Project 3: AI Recommendation Logic
+
+- **Type:** Content-Based Filtering
+- **Dataset:** raw_skills.csv (10 job roles)
+- **Algorithm:** TF-IDF + Cosine Similarity
+- **Input:** 3 user skills
+- **Output:** Top 3 recommended job roles
+- **Files:** `raw_skills.csv`, `recommender.py`
